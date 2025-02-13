@@ -1,14 +1,37 @@
-## 💻 Android Development
-- **Ngôn ngữ lập trình:** 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+🎮 About Me
 
-- **Frameworks & Tools:**
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Retrofit](https://img.shields.io/badge/Retrofit-0078D7?style=for-the-badge&logo=retrofit&logoColor=white)
-![Jetpack](https://img.shields.io/badge/Jetpack-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+👋 Hi there! I'm a Game Developer specializing in Unity
 
-- **IDE:**
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+I'm passionate about creating immersive and engaging gaming experiences using Unity. From designing mechanics to optimizing performance, I love bringing ideas to life through code and creativity.
+
+🛠 Skills & Tools
+
+🔹 Game Development: Unity, C#
+
+🔹 Game Mechanics: Physics, UI/UX
+
+🔹 Multiplayer & Networking: ...
+
+🔹 Graphics & Animation: ...
+
+🔹 Version Control: Git, GitHub
+
+🚀 Projects
+
+I have worked on various game genres, including:
+
+🎯 Action & Adventure Games
+
+🏎 Racing & Simulation (Currently learning)
+
+🧩 Puzzle & Strategy (Currently learning)
+
+🌍 Open-World & RPGs (Currently learning)
+
+🔗 Connect With Me
+
+📧 Email: [tranchiduc51003@gmail.com]
+
+Always looking for exciting collaborations and new challenges! Let's build amazing games together! 🚀
+
+
